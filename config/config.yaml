@@ -1,0 +1,8 @@
+database:
+  pinecone:
+    api_key: "your-pinecone-api-key"
+    environment: "us-west1-gcp"
+    index_name: "your-index-name"
+
+model:
+  path: "models/sample_model"
